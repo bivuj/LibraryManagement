@@ -1,0 +1,2 @@
+Developed a python project as Library Management using Python,MySql,OOPs , which inlcude the functionalities to add , retrieve , update , delete records for books , members and loan transaction.
+Used Databases to manage books availability and members , for which python is integrated with sql using quiries which contains two tables.Opps is used to encapsulate the data and realate the functionalities.
